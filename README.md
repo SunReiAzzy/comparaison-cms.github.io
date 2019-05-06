@@ -1,3 +1,8 @@
+### Liens recommandés
+[Accéder au site consacré à cette page](https://sunreiazzy.github.io/comparaison-cms.github.io/)
+
+[Github Editor](https://github.com/SunReiAzzy/comparaison-cms.github.io/edit/master/README.md)
+
 ## CMS - Content Management System
 
 Logiciels permettant la conception et la gestion de sites Web dynamiques et adaptatifs ainsi que des applications mobiles via une interface simple d'utilisation. Il est ainsi facile de créer des pages, sans forcément connaître les langages en développement web.
@@ -41,9 +46,3 @@ Un CMS, quant à lui, est accessible à tous grâce à son utilisation simple et
 - [WordPress](https://sunreiazzy.wordpress.com/blog/) ![WordPress](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png)
 - [Drupal](https://www.drupal.org/) ![Drupal](http://www.secpod.com/blog/wp-content/uploads/2018/04/drupal_logo.png)
 - [Prestashop](http://demo.prestashop.com/en/?view=front) ![Prestashop](https://banner2.kisspng.com/20180824/kvh/kisspng-prestashop-logo-e-commerce-clearsale-magento-web-tienda-online-y-marketing-digital-5b808cb8af7f73.2880214415351512887189.jpg)
-
-[Accéder au site consacré à cette page](https://sunreiazzy.github.io/comparaison-cms.github.io/)
-
-[Github Editor](https://github.com/SunReiAzzy/comparaison-cms.github.io/edit/master/README.md)
-
-
