@@ -1,7 +1,7 @@
 ### Liens recommandés
-[Accéder au site consacré à cette page](https://sunreiazzy.github.io/comparaison-cms.github.io/)
+[Accéder au site consacré à cette page](https://mondesirm.github.io/comparaison-cms.github.io/)
 
-[Github Editor](https://github.com/SunReiAzzy/comparaison-cms.github.io/edit/master/README.md)
+[Github Editor](https://github.com/mondesirm/comparaison-cms.github.io/edit/master/README.md)
 
 ## CMS - Content Management System
 
@@ -28,7 +28,7 @@ Ils possèdent les fonctionnalités suivantes:
 
 ![HTML5](https://i.stack.imgur.com/PgcSR.png)
 ![CSS3](https://seeklogo.com/images/C/css3-logo-FD8D698B77-seeklogo.com.png)
-![JAVASCRIPT](https://i2.wp.com/redstart.fr/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&ssl=1)
+![JAVASCRIPT](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/08/js-logo.png)
 Un site « créé à la main » c'est-à-dire sans y installer un système de gestion de contenu, requiert des personnes capables de développer un site de A à Z. Les développeurs sont familiarisés avec différents langages de programmation comme HTML / PHP / JavaScript... 
 De cette manière, il y a plus de chance d'obtenir un site sur mesure mais son temps de développement sera logiquement très long.
 En outre, en créer un manuellement requiert des compétences techniques, n'est pas à la portée de tout le monde et cela nécessite en plus beaucoup de patience.
